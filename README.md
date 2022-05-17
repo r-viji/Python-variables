@@ -1,0 +1,22 @@
+# Python-variables
+- Variable is used to allocate the **memory location**.
+- Its also known as **identifier**.
+- Python we don't need to specify the type of variable because Python is a **type infer language** and smart enough to get variable type.
+- python variable value assign with a **single equals sign (=).
+    - **Example**
+    - **n=100**
+- If you want to specify the data type of a variable, this can be done with casting.
+    - **Example**
+    - **x = str("welcome")**
+    - **y = int(3)**
+    - **z = float(3)**
+- You can get the data type of a variable with the type() function.
+    - **Exapmle**
+    - **x = 5**
+    - **y = "John"**
+    - **print(type(x))**
+    - **print(type(y))**
+- Variable names are case-sensitive.
+    - **Example**
+    - **a=10**
+    - **A=15**
